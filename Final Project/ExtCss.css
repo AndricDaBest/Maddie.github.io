@@ -1,0 +1,41 @@
+.HomepageBackground{
+	color:#000;
+	background-color:#ffdddd;
+}
+
+.MainDisplay1{
+	position:absolute;top:15%;left:35%;
+	font-size:30px;
+	background-color:lightblue;
+	font-family: "Lobster", serif;
+}
+
+.MainDisplay2{
+	position:absolute;top:60%;left:19%;
+	font-size:30px;
+	background-color:lightblue;
+	font-family: "Lobster", serif;
+}
+
+.MainDisplay3{
+	position:absolute;top:80%;right:5%;
+	font-size:30px;
+	font-family: "Lobster", serif;
+}
+
+.MainDisplay4{
+	position:absolute;top:65%;left:1%;
+	font-size:30px;
+	font-family: "Lobster", serif;
+}
+
+.MainDisplay5{
+	position:absolute;top:60%;right:5%;
+	font-size:30px;
+	font-family: "Lobster", serif;
+}
+
+.SongTitle{
+	font-size:25px;
+	font-family:Calibri;
+}

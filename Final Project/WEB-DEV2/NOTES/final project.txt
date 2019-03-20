@@ -1,0 +1,8 @@
+w3-display-middle{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%)}
+.w3-pale-red,.w3-hover-pale-red:hover{color:#000!important;background-color:#ffdddd!important}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+<style>
+.w3-lobster {
+  font-family: "Lobster", serif;
+}
+</style>
